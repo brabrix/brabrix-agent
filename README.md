@@ -7,7 +7,8 @@ Plataforma agentic para times de engenharia que querem transformar backlog em en
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Node](https://img.shields.io/badge/node-%3E%3D20-16a34a)
 ![pnpm](https://img.shields.io/badge/pnpm-%3E%3D9-f97316)
-
+link oficial: [Agent Brabrix](https://agent.brabrix.com/)
+link oficial: [Dev Brabrix](https://dev.brabrix.com/)
 > [!IMPORTANT]
 > Este projeto é um fork do [Paperclip](https://github.com/paperclipai/paperclip), preserva a licença MIT e os créditos originais. O foco da Brabrix é evoluir a base para fluxos de engenharia assistida por IA no ecossistema Brabrix Dev, com mudanças incrementais e compatíveis com o upstream sempre que possível.
 
